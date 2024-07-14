@@ -30,7 +30,7 @@ body, html {
 .landing-page {
     height: 100vh;
     background-size: cover;
-    background-image: url('background5.jpg');
+    background-image: url('background1.jpg');
     background-position: center;
     display: flex;
     flex-direction: column;
