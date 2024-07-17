@@ -211,8 +211,12 @@ section {
   justify-content: space-between;
   align-items: center;
 }
+img .card{
+  object-fit: cover;
+}
 
-.card {
+.card  {
+  object-fit:cover;
   cursor: pointer;
   height :400px
 }
