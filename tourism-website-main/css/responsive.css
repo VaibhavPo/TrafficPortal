@@ -12,11 +12,11 @@
 }
 @media screen and (max-width: 1130px) {
   .menu-btn {
-    display: block;
+    display: block
   }
 
   .navbar {
-    padding: 45px;
+    padding: 45px
   }
 
   .logo {
