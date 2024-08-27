@@ -1,2 +1,0 @@
-# TrafficPortal
- For DM internship
